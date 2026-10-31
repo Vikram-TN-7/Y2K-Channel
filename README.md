@@ -10,7 +10,7 @@ Y2K Channel is a Tamil infotainment platform dedicated to exploring Sci-Tech, so
 This repository contains the ultra-lightweight, SEO-optimized, and mobile-friendly source code for the Y2K Channel website.
 
 ## 🌐 Live Website
-[Visit the official Y2K Channel Website Here](https://your-netlify-link-here.netlify.app/) *(Replace with your actual Netlify URL)*
+[Visit the official Y2K Channel Website Here](https://y2kchannel.netlify.app/) 
 
 ## 🚀 Features
 *   **Ultra-Lightweight:** Built with pure, vanilla HTML, CSS, and JavaScript. No heavy frameworks.
